@@ -1,5 +1,7 @@
 # Your GitHub Learning Lab Repository for Introducing GitHub
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d7b3a5f6df9c482e96294060d1d1b65a)](https://app.codacy.com/gh/tamilarasan2001/github-slideshow?utm_source=github.com&utm_medium=referral&utm_content=tamilarasan2001/github-slideshow&utm_campaign=Badge_Grade_Settings)
+
 Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. See a word you don't understand? We've included an emoji 📖 next to some key terms. Click on it to see its definition.
 
 Oh! I haven't introduced myself...
